@@ -1,0 +1,116 @@
+.sfondo-nero{
+    margin: auto;
+    width: 800px;
+    height: 800px;
+    background-color: rgba(15, 14, 14, 0.498);
+    padding-top: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+   
+
+}
+
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    margin: auto;
+}
+
+.immagine{
+    width: 300px;
+    display: block;
+    margin: auto;
+   
+}
+  
+
+h1{
+    width: 100%;
+    color: lightgreen;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.rettangolo-verde{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(56, 231, 56);
+    border:50%;
+    margin-bottom: 20px;
+    
+    
+}
+
+.rettangoli{
+    text-align: center;
+}   
+
+
+.uno{
+    width: 50px;
+}
+
+.tre{
+    width: 80px;
+}
+
+h2{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline;
+    font-size: 20px;
+}
+
+.carica{
+    margin-top: 0%;
+}
+
+span{
+    color: white;
+    display: inline;
+}
+
+.titolo{
+color: white;
+display: inline;
+margin-bottom: 0%;
+}
+
+p{
+    color: white;
+    margin-top: 0%;
+}
+
+.arancio{
+    width: 50%;
+    height: 50px;
+    background-color: rgb(246, 239, 95);
+    border-radius: 15px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+.verde{
+    width: 80%;
+    height: 50px;
+    background-color: rgb(12, 249, 60);
+    border-radius: 15px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+
+.rosso{
+    width: 30%;
+    height: 50px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 15px;
+    margin-bottom: 20px;
+   margin-top: 0px;
+}
+
